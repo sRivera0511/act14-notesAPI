@@ -7,7 +7,6 @@ It supports full CRUD operations (Create, Read, Update, Delete) and works with J
 
 Each note includes title, author, date and time, content, and classification.
 
----
 
 ## Technologies
 
@@ -16,14 +15,12 @@ Each note includes title, author, date and time, content, and classification.
 * XAMPP
 * Postman
 
----
 
 ## Subject information
 
 Activity 14
 Web Application Design
 
----
 
 ## Author
 
